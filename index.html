@@ -1,16 +1,23 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link rel="stylesheet" href="style.css" />
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>astro photos</title> <!--put your project title here. in my case, im calling it astronomy.-->
-  </head>
-  <body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Astro Photos</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  
+  <!-- Main content card -->
+  <main id="app">
+    <p class="loading">Booting up cosmos...</p>
+  </main>
+  
+  <!-- Footer stays properly at the bottom -->
   <footer class="site-footer">
-  <p>powered by NASA APOD API & cyberpunk cosmos engine</p>
+    <p>Powered by NASA APOD API & Cyberpunk Cosmos Engine</p>
   </footer>
-    <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
-  </body>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
 </html>
