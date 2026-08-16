@@ -88,5 +88,7 @@ npm run dev
 
     Data provided by the incredible NASA APOD API.
 
+    I used AI (Gemini) during this project to help me troubleshoot bugs, clarify doubts when I got stuck, and give me general direction. I came up with the idea and      wrote the initial code myself, and used AI to help refine sections of the code and resolve deployment errors.
+
     UI inspired by modern deep space and cyberpunk aesthetics.
 t `via.placeholder.com` link at the top with an actual screenshot of your badass website!)*
