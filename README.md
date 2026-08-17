@@ -49,7 +49,8 @@ If you want to build the final static files for deployment, run:
 you can run the code in your vs code with the command
 npm run dev 
 
-##credits
+
+## credits
 i used gemini to debug the code adn help me when i got stuck and i used hackclub's guide to help me get this project running, i used nasa apod api 
 
 ##you can use this code how ever you want just dont forget to give me credit ;)
