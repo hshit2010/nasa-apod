@@ -45,11 +45,6 @@ Your terminal will give you a local host link (usually `http://localhost:5173/`)
 If you want to build the final static files for deployment, run:
 \`\`\`bash
 
-## running the code 
-you can run the code in your vs code with the command
-npm run dev 
-
-
 ## credits
 i used gemini to debug the code adn help me when i got stuck and i used hackclub's guide to help me get this project running, i used nasa apod api 
 
